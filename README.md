@@ -15,11 +15,11 @@ There are QRs that contains images in the middle of the QR itself, and we are ab
 
 Take look at this image that takes 19x19 boxes:
 
-![images/2.png](2.png)
+![images/2.png](images/2.png)
 
 ---
 
-![images/3.png](3.png)
+![images/3.png](images/3.png)
 
 As you can see in this exmaple. We have 12x12 (and we can mix up/down or left/right)
 
@@ -27,7 +27,7 @@ We could have the axis numbers and names like a spreadsheet to be able to save t
 [A11:L11]
 [A22:L22]
 
-![images/4.png](4.png)
+![images/4.png](images/4.png)
 
 Take in account that we can take from the last image example seeds from UP/DOWN (11-22) and LEFT/RIGHT (A-L) ! :)
 
